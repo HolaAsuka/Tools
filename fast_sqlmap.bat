@@ -1,0 +1,1 @@
+python "xxx\sqlmap.py" %*
